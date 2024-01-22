@@ -1,9 +1,8 @@
 # 🇧🇷 and 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 
-<img src="IMGs/Img1.png" alt="NovoFlashcard" width="400px">
-<img scr="./IMGs/Img2.png" alt="ListarDesafios" width="400px">
-<img scr="IMGs/img3.png" alt="EstatisticasDesafios" width="400px">
-<img scr="IMGs/img4.png" alt="Apostilas" width="400px">
+<img src="IMGs/Img1.png" alt="NovoFlashcard" width="400px"> <img src="IMGs/Img2.png" alt="ListarDesafios" width="400px">
+<img src="IMGs/img3.png" alt="Graficos" width="400px">
+<img src="IMGs/img4.png" alt="Apostilas" width="400px">
 
 # 🇧🇷 Introdução
   Esta é uma base de dados que abriga um portal de estudos, composto por cartões de memória (Flashcards), desafios envolvendo Flashcards e material didático. O usuário tem a capacidade de incorporar tanto os Flashcards quanto os desafios e apostilas. O sistema utiliza um banco   de dados em sqlite3 e o projeto foi inteiramente desenvolvido em Django.
